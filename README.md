@@ -17,12 +17,12 @@ If you are interested, don't hesitate to get in touch with us via mail at contac
 
 ---
 ## General information
-### [Example Gardens](https://github.com/CuttingGardens/2023_EEG-and-MEG-methods-multi-hub-meeting/blob/main/content/1.Example%20Gardens)
-### [Step 1: Main Checklist Before You Start](https://github.com/CuttingGardens/2023_EEG-and-MEG-methods-multi-hub-meeting/blob/main/content/2.%20Step%201:%20Main%20Checklist%20Before%20You%20Start)
-### [Step 2: Style Your Garden with Badges](https://github.com/CuttingGardens/2023_EEG-and-MEG-methods-multi-hub-meeting/blob/main/content/3.%20Step%202:%20Style%20your%20Garden%20with%20badges)
-### [A Month Ahead (~September 2023)](https://github.com/CuttingGardens/2023_EEG-and-MEG-methods-multi-hub-meeting/blob/main/content/4.%20A%20Month%20Ahead%20(%7ESeptember%202023))
-### [A Week Ahead (~October 2023)](https://github.com/CuttingGardens/2023_EEG-and-MEG-methods-multi-hub-meeting/blob/main/content/5.%20A%20Week%20Ahead%20(%7EOctober%202023))
-### [On-Site!](https://github.com/CuttingGardens/2023_EEG-and-MEG-methods-multi-hub-meeting/blob/main/content/6.%20On-Site!)
-### [Aftermath](https://github.com/CuttingGardens/2023_EEG-and-MEG-methods-multi-hub-meeting/blob/main/content/7.%20Aftermath)
+### [Example Gardens](content/1.Example%20Gardens.md)
+### [Step 1: Main Checklist Before You Start](content/2.%20Step%201:%20Main%20Checklist%20Before%20You%20Start.md)
+### [Step 2: Style Your Garden with Badges](content/3.%20Step%202:%20Style%20your%20Garden%20with%20badges.md)
+### [A Month Ahead (~September 2023)](content/4.%20A%20Month%20Ahead%20(%7ESeptember%202023).md)
+### [A Week Ahead (~October 2023)](content/5.%20A%20Week%20Ahead%20(%7EOctober%202023).md)
+### [On-Site!](content/6.%20On-Site!.md)
+### [Aftermath](content/7.%20Aftermath.md)
 
 
